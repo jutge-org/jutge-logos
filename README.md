@@ -3,21 +3,21 @@
 
 - 2019.png
 
-  ![2019.png](2019.png)
+  <a href='2019.png'><img src='2019.png' height='200'></a>
 
 - carnestoltes.png
 
-  ![carnestoltes.png](carnestoltes.png)
+  <a href='carnestoltes.png'><img src='carnestoltes.png' height='200'></a>
 
 - jutge.png
 
-  ![jutge.png](jutge.png)
+  <a href='jutge.png'><img src='jutge.png' height='200'></a>
 
 - lliçons.png
 
-  ![lliçons.png](lliçons.png)
+  <a href='lliçons.png'><img src='lliçons.png' height='200'></a>
 
 - reis.png
 
-  ![reis.png](reis.png)
+  <a href='reis.png'><img src='reis.png' height='200'></a>
 
