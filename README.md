@@ -13,9 +13,9 @@
 
   <a href='carnestoltes.png'><img src='carnestoltes.png' height='200'></a>
 
-- democràcia.png
+- democracia.png
 
-  <a href='democràcia.png'><img src='democràcia.png' height='200'></a>
+  <a href='democracia.png'><img src='democracia.png' height='200'></a>
 
 - estiu 2017.png
 
@@ -33,9 +33,9 @@
 
   <a href='lego.png'><img src='lego.png' height='200'></a>
 
-- llaç groc.png
+- llac-groc.png
 
-  <a href='llaç groc.png'><img src='llaç groc.png' height='200'></a>
+  <a href='llac-groc.png'><img src='llac-groc.png' height='200'></a>
 
 - lliçons.png
 
