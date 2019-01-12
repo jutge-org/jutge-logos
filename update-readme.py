@@ -8,7 +8,7 @@ text = '''
 
 '''
 
-for png in glob.glob('*.png'):
+for png in sorted(glob.glob('*.png')):
     text += '''- %s\n\n  ![%s](%s)\n\n''' % (png, png, png)
 
 with open('README.md', 'w') as file:
