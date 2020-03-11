@@ -41,6 +41,10 @@
 
   <a href='lliçons.png'><img src='lliçons.png' height='200'></a>
 
+- mask.png
+
+  <a href='mask.png'><img src='mask.png' height='200'></a>
+
 - nadal 2016.png
 
   <a href='nadal 2016.png'><img src='nadal 2016.png' height='200'></a>
