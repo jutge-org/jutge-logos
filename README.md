@@ -45,6 +45,10 @@
 
   <a href='mask.png'><img src='mask.png' height='200'></a>
 
+- mona-pasqua.png
+
+  <a href='mona-pasqua.png'><img src='mona-pasqua.png' height='200'></a>
+
 - nadal 2016.png
 
   <a href='nadal 2016.png'><img src='nadal 2016.png' height='200'></a>
