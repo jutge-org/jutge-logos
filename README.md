@@ -64,6 +64,14 @@
 - semàfor verd.png
 
   <a href='semàfor verd.png'><img src='semàfor verd.png' height='200'></a>
+  
+  - semàfor groc.png
+
+  <a href='semàfor groc.png'><img src='semàfor groc.png' height='200'></a>
+  
+  - semàfor vermell.png
+
+  <a href='semàfor vermell.png'><img src='semàfor vermell.png' height='200'></a>
 
 - travesti.png
 
