@@ -60,6 +60,10 @@
 - reis.png
 
   <a href='reis.png'><img src='reis.png' height='200'></a>
+  
+- semàfor verd.png
+
+  <a href='semàfor verd.png'><img src='semàfor verd.png' height='200'></a>
 
 - travesti.png
 
